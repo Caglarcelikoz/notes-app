@@ -19,3 +19,7 @@
 #cta a:hover {
   background-color: var(--color-secondary-200);
 }
+
+a {
+  color: var(--color-primary-10);
+}
