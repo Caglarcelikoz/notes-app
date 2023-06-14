@@ -15,7 +15,7 @@
 }
 
 #note-form label {
-  margin-bottom: 0.5rem;
+  margin-bottom: 1rem;
   color: var(--color-primary-500);
   font-weight: bold;
 }
