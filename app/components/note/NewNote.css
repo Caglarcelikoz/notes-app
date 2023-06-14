@@ -24,7 +24,7 @@
 #note-form textarea {
   width: 100%;
   font: inherit;
-  padding: 0.5rem 0.25rem;
+  padding: 1rem 0.25rem;
   background-color: var(--color-primary-200);
   border: none;
   border-radius: 2px;
